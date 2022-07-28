@@ -6,4 +6,6 @@ File structure
 * Instructions can be found in relax_data_science_challenge.pdf
 * My answers can be found in Report.pdf
 * My code and figures can be found in the analysis.ipynb
-
+* Datasets
+  * takehome_user_engagement.csv
+  * takehome_users.csv
