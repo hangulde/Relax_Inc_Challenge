@@ -3,9 +3,9 @@ A take-home data science challenge from Relax Inc. (anonymized real company). Pr
 
 File structure
 
-* Instructions can be found in relax_data_science_challenge.pdf
-* My answers can be found in Report.pdf
-* My code and figures can be found in the analysis.ipynb
+* Instructions: relax_data_science_challenge.pdf
+* My answers: Report.pdf
+* My code: analysis.ipynb
 * Datasets
   * takehome_user_engagement.csv
   * takehome_users.csv
